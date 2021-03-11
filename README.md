@@ -15,7 +15,7 @@ Não esqueça de adicionar a seguinte dependência ao seu projeto, modificando e
 </ul>
 
 <br>
-Além das dependências, também adicionar os arquivos de recursos:
+Além das dependências, também referenciar os arquivos de recursos utilizados:
 <ul>
   <li><pre>assets:</pre></li>
   <li><pre>  - assets/imagens/padrao.png</pre></li>
